@@ -64,9 +64,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/liujiuming123
- - icon: linkedin
-   icon_pack: fab
-   link: https://scholar.google.com/citations?user=j4YXCukAAAAJ&hl=zh-CN
+  - icon: linkedin
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=j4YXCukAAAAJ&hl=zh-CN
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
