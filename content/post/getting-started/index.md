@@ -1,6 +1,6 @@
 ---
 title: RegFormer An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+
 
 # Summary for listings and search engines
 summary: ICCV 2023
