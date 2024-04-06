@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: Translo: A window-based masked point transformer framework for large-scale lidar odometry
+date: '2023'
+summary: AAAI 2023
 ---
 
 
