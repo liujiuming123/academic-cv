@@ -22,7 +22,7 @@ role: Master student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shanghai Jiao Tong University IRMV Lab
-#url: https://irmv.sjtu.edu.cn/team/
+url: https://irmv.sjtu.edu.cn/team/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -32,7 +32,7 @@ research interests:
   - 3D vision
   - Diffusion-based 3D generation
   - NeRF/3DGS rendering
-  - large-scale point cloud registration
+ # - large-scale point cloud registration
 
 # Education to show in About widget
 education:
@@ -44,46 +44,6 @@ education:
       institution: Harbin Institute of Technology
       year: 2018-2022
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#skills:
- # - name: Technical
- #   items:
-  #    - name: Python
-  #      description: ''
-  #      percent: 80
-  #      icon: python
-  #      icon_pack: fab
-  #    - name: Data Science
-  #      description: ''
-  #      percent: 100
-  #      icon: chart-line
- #       icon_pack: fas
- #     - name: SQL
-  #      description: ''
-  #      percent: 40
- #       icon: database
- #       icon_pack: fas
- # - name: Hobbies
- #   color: '#eeac02'
- #   color_border: '#f0bf23'
-  #  items:
- #     - name: Hiking
- #       description: ''
- #       percent: 60
- #       icon: person-hiking
- #       icon_pack: fas
- #     - name: Cats
-#        description: ''
-#        percent: 100
-#        icon: cat
-  #      icon_pack: fas
-  #    - name: Photography
-  #      description: ''
-  #      percent: 80
-   #     icon: camera-retro
-  #      icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -91,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: liujiuming@sjtu.edu.cn
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -104,9 +64,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/liujiuming123
- # - icon: linkedin
-#    icon_pack: fab
-  #  link: https://www.linkedin.com/
+ - icon: linkedin
+   icon_pack: fab
+   link: https://scholar.google.com/citations?user=j4YXCukAAAAJ&hl=zh-CN
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -118,5 +78,5 @@ social:
 highlight_name: true
 ---
 
-Jiuming Liu is a second-year student of IRMV lab from shanghai Jiao Tong University (supervised by Prof. Hesheng Wang). Her research interests include 3D computer vision, especially diffusion-based 3D generation, NeRF/3DGS-based neural rendering, SLAM, LiDAR odometry, scene flow estimation, and large-scale point cloud registration. 
+Jiuming Liu is a second-year student of IRMV lab from shanghai Jiao Tong University (supervised by Prof. Hesheng Wang). His research interests include 3D computer vision, especially diffusion-based 3D generation, NeRF/3DGS-based neural rendering, SLAM, LiDAR odometry, scene flow estimation, and large-scale point cloud registration. From June to August in 2023, he also served as a research assistant in Chineese University of Hong Kong (CUHK), advised by Prof. Yunhui Liu.
 {style="text-align: justify;"}
