@@ -17,22 +17,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master student
+role: Master student in IRMV Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Jiao Tong University IRMV Lab
+  - name: Shanghai Jiao Tong University
 # url: https://irmv.sjtu.edu.cn/team/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include diffusion-based 3D generation, NeRF/3DGS-based neural rendering, SLAM, LiDAR odometry, scene flow estimation, and large-scale point cloud registration.
 
 # Interests to show in About widget
 research interests:
   - 3D vision
   - Diffusion-based 3D generation
   - NeRF/3DGS rendering
- # - large-scale point cloud registration
+  - large-scale point cloud registration
 
 # Education to show in About widget
 education:
