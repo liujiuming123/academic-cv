@@ -1,6 +1,6 @@
 ---
-title: Translo A window-based masked point transformer framework for large-scale lidar odometry
-date: '2023-11-03'
+title: TransLO A window-Based Masked Point Transformer Framework for Large-Scale Lidar Odometry
+date: '2023'
 summary: AAAI 2023
 ---
 
