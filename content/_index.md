@@ -62,7 +62,7 @@ sections:
         exclude_past: false
         publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 1
+      offset: 3
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
