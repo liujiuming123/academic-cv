@@ -22,7 +22,7 @@ role: Master student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shanghai Jiao Tong University IRMV Lab
-url: https://irmv.sjtu.edu.cn/team/
+# url: https://irmv.sjtu.edu.cn/team/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
