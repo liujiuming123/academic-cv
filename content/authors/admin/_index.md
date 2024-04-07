@@ -54,9 +54,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: liujiuming@sjtu.edu.cn
+ # - icon: envelope
+  #  icon_pack: fas
+  #  link: liujiuming@sjtu.edu.cn
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -83,5 +83,5 @@ social:
 highlight_name: true
 ---
 
-Jiuming Liu is a second-year student of IRMV lab from shanghai Jiao Tong University (supervised by Prof. Hesheng Wang). His research interests include 3D computer vision, especially diffusion-based 3D generation, NeRF/3DGS-based neural rendering, SLAM, LiDAR odometry, scene flow estimation, and large-scale point cloud registration. From June to August in 2023, he also served as a research assistant in Chineese University of Hong Kong (CUHK), advised by Prof. Yunhui Liu.
+Jiuming Liu is a second-year student of IRMV lab from shanghai Jiao Tong University (supervised by Prof. Hesheng Wang). His research interests include 3D computer vision, especially diffusion-based 3D generation, NeRF/3DGS-based neural rendering, SLAM, LiDAR odometry, scene flow estimation, and large-scale point cloud registration. From June to August in 2023, he also served as a research assistant in Chinese University of Hong Kong (CUHK), advised by Prof. Yunhui Liu. He has published five international conference papers, including AAAI 2023, ICCV 2023, CVPR 2024. He also serves as the reviewer of CVPR 2024, ECCV 2024, and ICIAR 2023. Welcome to contact me at email: liujiuming@sjtu.edu.cn
 {style="text-align: justify;"}
