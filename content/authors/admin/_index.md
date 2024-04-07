@@ -33,7 +33,7 @@ interests:
   - 3D vision
   - Diffusion-based 3D generation
   - NeRF/3DGS rendering
-  - large-scale point cloud registration
+  - Large-scale point cloud registration
   - Point cloud understanding
 
 
