@@ -42,6 +42,9 @@ education:
     - course: MEng in Automation
       institution: Shanghai Jiao Tong University
       year: 2022-Now
+    - course: Research Assistant
+      institution: CUHK T.Stone Lab
+      year: June-August in 2023
     - course: BSc in Automation
       institution: Harbin Institute of Technology
       year: 2018-2022
