@@ -18,7 +18,7 @@ superuser: true
 
 # Role/position/tagline
 role: Master student in IRMV Lab
-url: https://irmv.sjtu.edu.cn/team/
+# url: https://irmv.sjtu.edu.cn/team/
 
 # Organizations/Affiliations to show in About widget
 organizations:
