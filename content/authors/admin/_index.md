@@ -18,11 +18,12 @@ superuser: true
 
 # Role/position/tagline
 role: Master student in IRMV Lab
+url: https://irmv.sjtu.edu.cn/team/
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shanghai Jiao Tong University
-# url: https://irmv.sjtu.edu.cn/team/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include diffusion-based 3D generation, NeRF/3DGS-based neural rendering, SLAM, LiDAR odometry, scene flow estimation, and large-scale point cloud registration.
