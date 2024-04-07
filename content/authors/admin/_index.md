@@ -34,7 +34,7 @@ interests:
   - Diffusion-based 3D generation
   - NeRF/3DGS rendering
   - large-scale point cloud registration
-  - Point cloud Analysis
+
 
 # Education to show in About widget
 education:
