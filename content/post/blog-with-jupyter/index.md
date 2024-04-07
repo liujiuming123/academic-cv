@@ -1,5 +1,5 @@
 ---
-title: TransLO A window-Based Masked Point Transformer Framework for Large-Scale Lidar Odometry
+title: (TransLO) A window-Based Masked Point Transformer Framework for Large-Scale Lidar Odometry
 summary: Jiuming. Liu#, Guangming. Wang#, Chaokang. Jiang, Zhe. Liu and Hesheng. Wang* (AAAI 2023)
 ---
 
