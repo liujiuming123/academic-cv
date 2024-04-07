@@ -28,7 +28,7 @@ organizations:
 bio: My research interests include diffusion-based 3D generation, NeRF/3DGS-based neural rendering, SLAM, LiDAR odometry, scene flow estimation, and large-scale point cloud registration.
 
 # Interests to show in About widget
-research interests:
+interests:
   - 3D vision
   - Diffusion-based 3D generation
   - NeRF/3DGS rendering
