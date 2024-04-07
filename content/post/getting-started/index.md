@@ -1,7 +1,7 @@
 ---
 title: RegFormer An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration
 summary: Jiuming Liu#, Guangming Wang#, Zhe Liu*, Chaokang Jiang, Marc Pollefeys, Hesheng Wang* (ICCV 2023)
-
+subtitle: ICCV 2023
 ---
 
 
