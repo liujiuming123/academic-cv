@@ -6,6 +6,7 @@ event_url: https://www.bilibili.com/video/BV13c411Z7sd/?spm_id_from=333.337.sear
 
 summary: An invitated talk about our ICCV paper RegFormer.
 
+---
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
