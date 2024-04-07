@@ -12,5 +12,5 @@ summary: ICCV 2023
 ## Get Started
 
 - 👉 [**Github**](https://github.com/IRMVLab/RegFormer)
-- 📚 [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25256)
+- 📚 [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_RegFormer_An_Efficient_Projection-Aware_Transformer_Network_for_Large-Scale_Point_Cloud_ICCV_2023_paper.pdf)
 
